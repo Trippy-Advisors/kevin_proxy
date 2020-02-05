@@ -1,0 +1,9 @@
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/Trippy-Advisors/calendar.git
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/Trippy-Advisors/reviews.git
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/Trippy-Advisors/gallery.git
