@@ -1,0 +1,27 @@
+#header {
+  position: absolute;
+  top: 0rem;
+
+  z-index: 2;
+}
+
+#gallery {
+  position: absolute;
+  top: 23rem;
+  left: 28rem;
+  background: none;
+}
+
+#reviews {
+  position: absolute;
+  top: 50rem;
+  background: none;
+}
+
+#calendar {
+  position: absolute;
+  top: 6.3rem;
+  left: -6rem;
+  height: 90%;
+  background: none;
+}
